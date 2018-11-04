@@ -41,6 +41,23 @@ You can refer to https://github.com/papampi/nvOC_miners README for more help on 
 
 ## Download pre-built OS images
 
+### nvOC_19-3.x, Ubuntu 16.04, Dual-Cuda 8+9.2, Nvidia 410, 2018-10-27 (for nvOC >= 2.1)
+Version: always the latest, from configurable branch (default: [release](https://github.com/papampi/nvOC_by_fullzero_Community_Release/tree/release))
+
+| host | size   | download                                                                       |
+|------|--------|--------------------------------------------------------------------------------|
+| MEGA | 3,8 GB | [link](https://mega.nz/#!VYl0yIab!TWctArrWrr2euuHRm2C8lgAE7COYAvTWwWRmdiAQNsE) |
+| GDrive | 3,8 GB | [link](https://drive.google.com/file/d/1-NbKJBOYJwVA3iqnbVY1pRs0wPr5Gc-X/view?usp=drivesd)  |
+| OneDrive | 3,8 GB | [link](https://polimi365-my.sharepoint.com/:u:/g/personal/10434559_polimi_it/EQruOF1Zu0ZNqPvaA68818MB-EFQGivU_zCBTCHD5j_N6g?e=WKBYsC)|
+
+Checksums:
+
+| file                                                 | type   | value                                                            |
+|------------------------------------------------------|--------|------------------------------------------------------------------|
+| nvOC_19-3.x_U16.04_Cuda_8-9.2_N410_2018-10-27.7z      | sha256 | 95faf1267ad196bd4f70a47929f0a1b32e7bc9b7095879a0e87ad44c2dd9650f |
+| nvOC_19-3.x_U16.04_Cuda_8-9.2_N410_2018-10-27.img    | sha256 | b9f4d01b487772231df593966c5e5e4368ed881a4112d7c6708f60de3660b1d6 |
+
+
 ### nvOC_19-2.1 beta Ubuntu 18.04 Dual-Cuda Nvidia 396 2018-09-07 (for nvOC >= 2.1)
 Version: always the latest, from configurable branch (default: [release](https://github.com/papampi/nvOC_by_fullzero_Community_Release/tree/release))
 
@@ -73,16 +90,3 @@ Checksums:
 | nvOC_V19-2.1beta_U16.04_N390_D180707.img.zip | sha256 | 6334067606176ed90191b3e4980b21102d14a9c8f14ec63508669d1cb27d6e33 |
 | nvOC_V19-2.1beta_U16.04_N390_D180707.img     | sha256 | f1f02c1cd704d3a33c954f64c5b6856f3a75612243b68d66da2fc9acd7bea8a5 |
 
-### nvOC_V19-2.1beta_U16.04_N390_D180619
-Version: beta testing snapshot branch [19-2.1@a3e92bd976997327fc971b549066f8a566781538](https://github.com/papampi/nvOC_by_fullzero_Community_Release/tree/a3e92bd976997327fc971b549066f8a566781538)
-
-| host | size   | download                                                                       |
-|------|--------|--------------------------------------------------------------------------------|
-| MEGA | 3,43GB | deprecated, get newer versions |
-
-Checksums:
-
-| file                                         | type   | value                                                            |
-|----------------------------------------------|--------|------------------------------------------------------------------|
-| nvOC_V19-2.1beta_U16.04_N390_D180619.img.zip | sha256 | 7700dfdfc1cabab8a1dd9816a6322d6653c89943cb63afa59e79f88cfe14a6a9 |
-| nvOC_V19-2.1beta_U16.04_N390_D180619.img     | sha256 | cb607c8e028d3bc0a0e274c34b4e0def0c71330053f0c8328120a717e0029938 |
