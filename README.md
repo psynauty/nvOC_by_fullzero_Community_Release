@@ -9,7 +9,7 @@ You can get nvOC running on your mining rig in some different ways:
 ### Noob-proof: Pre-built images
 Download the latest full nvOC OS image (links below), then:
 1. Write the image with your favourite HDD image writer of choicce
-2. Browse to the small fat partition you can see on the drive. Download the latest nvOC configuration file named '1bash.template' from latest 'release' [here](https://github.com/papampi/nvOC_by_fullzero_Community_Release/raw/release/1bash.tamplate) and save it there as '1bash'.
+2. Browse to the small fat partition you can see on the drive. Download the latest nvOC configuration file named '1bash.template' from latest 'release' [here](https://raw.githubusercontent.com/papampi/nvOC_by_fullzero_Community_Release/release/1bash.template) and save it there as '1bash'.
 3. Edit this file with all your settings. The same file contains settings descriptions that will help you completing the setup.
 
 ### For insiders: Pre-built images targeting beta/pre-release branches
@@ -60,6 +60,8 @@ Checksums:
 
 ### nvOC_19-2.1 beta Ubuntu 18.04 Dual-Cuda Nvidia 396 2018-09-07 (for nvOC >= 2.1)
 Version: always the latest, from configurable branch (default: [release](https://github.com/papampi/nvOC_by_fullzero_Community_Release/tree/release))
+
+Note: Ubuntu 18.04 may have some conflicts with tempcontrol
 
 | host | size   | download                                                                       |
 |------|--------|--------------------------------------------------------------------------------|
